@@ -1,14 +1,13 @@
 # Hello, I'm Youngju Park 👋
 
 ## 🌱 Research Interest
-Focusing on solving complex dynamics problems using reinforcement learning, with a strong interest in physics-based simulations and real-world implementation.
+I am interested in solving complex dynamics problems using reinforcement learning, with a strong interest in physics-based simulations and real-world implementation.
 
 ## 🎓 Education
 ### Korea Aerospace University (KAU), Bachelor’s Degree
 - **Expected Graduation:** August 2025  
 - **Location:** Gyeonggi-do, South Korea  
-- **Major:** Aerospace Engineering  
-- **GPA:** 4.36/4.5, **Major GPA:** 4.44/4.5 📊  
+- **Major:** Aerospace Engineering   
 - Awarded Full Academic Scholarship three times and Half Academic Scholarship once. 🏆
 
 ### Embry-Riddle Aeronautical University (ERAU), Exchange Student Program
@@ -71,7 +70,6 @@ Focusing on solving complex dynamics problems using reinforcement learning, with
 - **Park, Y., Park, D., & Seo, B. (2024):** *A Comparative Study on the Performance of LSTM and Frame Stacking Methods in Time Series Data Processing Based on Environmental Complexity.* Presented at The 5th Korea Artificial Intelligence Conference. Received Honorable Mention.  
   - [GitHub Repository](https://github.com/YJPark0806/LSTMvsFrameStacking) 📝  
 - **Willoughby, M., Park, Y., Richelmy, K., & Peng, H. (2024):** *Satellite Reorientation Using Reinforcement Learning Under Unknown Attitude Failure: Reaction Wheels and Earth Searching.* Presented at AAS Conference (under review).  
-- **Park, Y., & Colleagues (2023):** *Applying DDPG for Attitude Control in Aerospace Applications.* Explored the use of Deep Deterministic Policy Gradient (DDPG) for satellite attitude control, highlighting its efficiency in handling complex control environments. 🚀
 
 ## 🎤 Conference Presentations
 - **Oral Presentation:**  
@@ -87,21 +85,15 @@ Focusing on solving complex dynamics problems using reinforcement learning, with
 - **Korean:** Native  
 - **English:** Proficient – Exchange student experience of 2 semesters, TOEFL 107 (30/30/24/25), TOEIC 910. 🌏
 
+## ✨ Fun Facts About Me
+- I have learned Jiu-Jitsu for about a year. 🥋
+- I enjoy lying in bed and listening to Disney songs to relax. 🎵
+
 ## 📫 Contact Me
-- **Address:** Nowon-Hyundai Apartment, 53, Sanggye-ro 3-gil, Nowon-gu, Seoul, Republic of Korea (01693)  
-- **Phone:** +82-10-5620-1831  
 - **Email:** [andy1andy@kau.kr](mailto:andy1andy@kau.kr)  
 - **YouTube Channel:** [@YoungjuPark86](https://www.youtube.com/@YoungjuPark86)  
-  My channel focuses on delivering in-depth lectures on deep learning and advanced linear algebra, aiming to provide viewers with a comprehensive understanding of these critical topics in AI and mathematics. 🧠
 
-## 🔗 References
-- **Dae-Sung Jang, Associate Professor**  
-  - School of Aerospace and Mechanical Engineering, Korea Aerospace University  
-  - Phone: +82-2-300-0077  
-  - Email: [dsjang@kau.ac.kr](mailto:dsjang@kau.ac.kr)  
-- **Hao Peng, Associate Professor**  
-  - Aerospace Engineering Department, Embry-Riddle Aeronautical University  
-  - Email: [pengh2@erau.edu](mailto:pengh2@erau.edu)
+
 
 
 <!---
