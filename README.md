@@ -1,7 +1,10 @@
 # Hello, I'm Youngju Park 👋
 
 ## 🌱 Research Interest
-I am interested in solving complex dynamics problems using reinforcement learning, with a strong interest in physics-based simulations and real-world implementation.
+- Modeling complex dynamics in simulation environments.
+- Applying reinforcement learning to optimize and solve these problems.
+- Implementing these models in real-world applications.
+
 
 ## 🎓 Education
 ### Korea Aerospace University (KAU), Bachelor’s Degree
@@ -20,15 +23,14 @@ I am interested in solving complex dynamics problems using reinforcement learnin
 ### Undergraduate Research Student at KAU
 - **Duration:** September 2024 - Present  
 - **Lab:** Autonomous Systems and Optimization Laboratory  
-- Conducting research and drafting a paper on attitude control for a full-car model using reinforcement learning-based semi-active suspension systems. 📝  
-- Developing the system using ROS2 and Gazebo for simulation, and Python for testing and implementation. 🛠️
+- Developing a reinforcement learning-based semi-active suspension system for attitude control on a full car model. 🚙
+- Using ROS2 and Gazebo for simulation, with Python for testing and implementation 🛠️
 
 ### Undergraduate Research Student at ERAU
 - **Duration:** October 2023 - May 2024  
 - **Lab:** Aerospace Lab of PENG for Leaders of the World  
-- Coauthored a paper on reorienting satellite antennas using reinforcement learning under unknown attitude failures. 📚  
-- Validated the reaction wheel dynamics part of the project code by creating an independent simulator and comparing results; identified and corrected discrepancies, enhancing code accuracy. 🚀  
-- Mainly used Python, Git, and GitHub for project development and version control. 🖥️
+- Coauthored a paper on reorienting satellite antennas using reinforcement learning under unknown attitude failures. 🛰️
+- Validated the satellite reaction wheel dynamics simulation to correct discrepancies by developing an independent simulator using Python. 🚀
 
 ## 👨‍🏫 Teaching Experience
 ### Mentoring Program at KAU
@@ -69,7 +71,7 @@ I am interested in solving complex dynamics problems using reinforcement learnin
 ## 📝 Publications
 - **Park, Y., Park, D., & Seo, B. (2024):** *A Comparative Study on the Performance of LSTM and Frame Stacking Methods in Time Series Data Processing Based on Environmental Complexity.* Presented at The 5th Korea Artificial Intelligence Conference. Received Honorable Mention.  
   - [GitHub Repository](https://github.com/YJPark0806/LSTMvsFrameStacking) 📝  
-- **Willoughby, M., Park, Y., Richelmy, K., & Peng, H. (2024):** *Satellite Reorientation Using Reinforcement Learning Under Unknown Attitude Failure: Reaction Wheels and Earth Searching.* Presented at AAS Conference (under review).  
+- **Willoughby, M., Park, Y., Richelmy, K., & Peng, H. (2024):** *Satellite Reorientation Using Reinforcement Learning Under Unknown Attitude Failure: Reaction Wheels and Earth Searching.* Presented at 2024 AAS/AIAA Astrodynamics Specialist Conference.
 
 ## 🎤 Conference Presentations
 - **Oral Presentation:**  
@@ -83,14 +85,14 @@ I am interested in solving complex dynamics problems using reinforcement learnin
 
 ## 🌐 Languages
 - **Korean:** Native  
-- **English:** Proficient – Exchange student experience of 2 semesters, TOEFL 107 (30/30/24/25), TOEIC 910. 🌏
+- **English:** Proficient – TOEFL 107 (30/30/24/25), TOEIC 910, Exchange student experience of 2 semesters 🌏
 
 ## ✨ Fun Facts About Me
 - I have learned Jiu-Jitsu for about a year. 🥋
 - I enjoy lying in bed and listening to Disney songs to relax. 🎵
 
 ## 📫 Contact Me
-- **Email:** [andy1andy@kau.kr](mailto:andy1andy@kau.kr)  
+- **Email:** [andy1andy@kau.kr](mailto:andy1andy@kau.kr), [andy1831andy@gmail.com](mailto:andy1831andy@gmail.com)  
 - **YouTube Channel:** [@YoungjuPark86](https://www.youtube.com/@YoungjuPark86)  
 
 
