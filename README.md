@@ -1,9 +1,8 @@
 # Hello, I'm Youngju Park 👋
 
 ## 🌱 Research Interest
-- Modeling complex dynamics in simulation environments.
-- Applying reinforcement learning to optimize and solve these problems.
-- Implementing these models in real-world applications.
+- Develop novel reinforcement learning (RL) algorithms applicable to the real world.
+- Implement these RL algorithms in both simulation environments and the real world. 
 
 
 ## 🎓 Education
@@ -31,6 +30,7 @@
 - **Lab:** Aerospace Lab of PENG for Leaders of the World  
 - Coauthored a paper on reorienting satellite antennas using reinforcement learning under unknown attitude failures. 🛰️
 - Validated the satellite reaction wheel dynamics simulation to correct discrepancies by developing an independent simulator using Python. 🚀
+- Documented the project code highlighting RL agent-environment interaction and presented it to lab members. 📑
 
 ## 👨‍🏫 Teaching Experience
 ### Mentoring Program at KAU
@@ -47,16 +47,10 @@
 - Studied various reinforcement learning and deep reinforcement learning methods, presenting findings to club members. 📊  
 - [DRL study note link](https://drive.google.com/file/d/19ThDffjRKLZuW3ixqgtBNbZNmSMsjd6U/view?usp=sharing) 📑
 
-### 2024 BOEING DAY (KAU-Boeing Collaborative Event)
-- **Duration:** September 2024 - Present  
-- Developed a reinforcement learning algorithm to identify a 10x10 square-shaped terrain in Grid World where all tiles meet specific conditions with minimal movement. 🧩  
-- Planning a real-world implementation of the algorithm using a line tracer model with Arduino. 🛠️
-
 ### Capstone Project
 - **Duration:** September 2024 - Present  
-- Achieved stable semi-autonomous flight of a Flying-Wing with limited input variables (speed, altitude rate, and roll angle). ✈️  
-- Developed a semi-autonomous flight simulator for a flying-wing aircraft using flight dynamics and PID control in MATLAB Simulink. 🖥️  
-- Successfully implemented the flight on a physical aircraft using Arduino. 🛠️
+- Developed a semi-autonomous PID controller for a Flying-Wing aircraft in MATLAB Simulink with limited input variables (speed, altitude rate, and roll angle).  ✈️  
+- Implemented semi-autonomous flight on a physical aircraft using Arduino, successfully validating the controller's performance in a real-world environment. 🛠️
 
 ### NASA International Space Apps Challenge Hackathon
 - **Duration:** October 2024  
@@ -85,11 +79,11 @@
 
 ## 🌐 Languages
 - **Korean:** Native  
-- **English:** Proficient – TOEFL 107 (30/30/24/25), TOEIC 910, Exchange student experience of 2 semesters 🌏
+- **English:** Proficient – TOEFL 107 (Re 30/Li 30/Sp 24/Wr 25) using MyBestScore, TOEIC 910, Exchange student experience of 2 semesters 🌏
 
 ## ✨ Fun Facts About Me
 - I have learned Jiu-Jitsu for about a year. 🥋
-- I enjoy lying in bed and listening to Disney songs to relax. 🎵
+- I love listening to Disney songs. My favorite is "When Will My Life Begin" from Tangled. 🎵
 
 ## 📫 Contact Me
 - **Email:** [andy1andy@kau.kr](mailto:andy1andy@kau.kr), [andy1831andy@gmail.com](mailto:andy1831andy@gmail.com)  
